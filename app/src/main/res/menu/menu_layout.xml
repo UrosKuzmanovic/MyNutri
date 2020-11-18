@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.epos.mynutri.main.MainActivity">
+
+    <item android:id="@+id/bmi"
+        android:title="@string/izracunaj_bmi"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/pretrazi"
+        android:title="@string/pretrazi"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/istorija"
+        android:title="@string/istorija"
+        app:showAsAction="never" />
+
+</menu>

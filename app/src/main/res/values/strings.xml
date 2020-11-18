@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myNutri</string>
+    <string name="title_activity_main">myNutri</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="izracunaj_bmi">Izračunaj BMI</string>
+    <string name="pretrazi">Pretraži</string>
+    <string name="istorija">Istorija</string>
+    <string name="pretraziEditText">Pretraži</string>
+</resources>
